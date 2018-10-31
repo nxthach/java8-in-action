@@ -51,7 +51,7 @@ public class Main {
 				new Dish("prawns", false, 300, Dish.Type.FISH),
 				new Dish("salmon", false, 450, Dish.Type.FISH) );
 
-This for test. That line will be confilict.		
+update
 	
 		
 		
