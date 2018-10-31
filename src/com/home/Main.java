@@ -50,8 +50,9 @@ public class Main {
 				new Dish("pizza", true, 550, Dish.Type.OTHER),
 				new Dish("prawns", false, 300, Dish.Type.FISH),
 				new Dish("salmon", false, 450, Dish.Type.FISH) );
-		
-		
+
+This for test. That line will be confilict.		
+	
 		
 		
 //		int sum = menu.stream().mapToInt(Dish::getCalories).sum();
